@@ -11,7 +11,7 @@
 
 [![X](https://img.shields.io/badge/X-@RbeerShv-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/RbeerShv)
 [![Reddit](https://img.shields.io/badge/Reddit-More__Candidate__2521-FF4500?style=for-the-badge&logo=reddit)](https://reddit.com/user/More_Candidate_2521)
-[![Email](https://img.shields.io/badge/Email-rbeerkj@proton.me-EA4335?style=for-the-badge&logo=protonmail)](mailto:rbeerkj@proton.me)
+[![Email](https://img.shields.io/badge/Email-oglaos@proton.me-EA4335?style=for-the-badge&logo=protonmail)](mailto:rbeerkj@proton.me)
 [![Gravatar](https://img.shields.io/badge/Gravatar-OGZEROEDGE-blue?style=for-the-badge&logo=gravatar)](https://gravatar.com/OGZEROEDGE)
 [![Flickr](https://img.shields.io/badge/Flickr-Rbeer-ff0084?style=for-the-badge&logo=flickr)](https://flickr.com/people/203854024@N07)
 
