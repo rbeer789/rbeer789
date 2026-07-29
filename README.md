@@ -98,7 +98,8 @@ Explore my repositories to see what I'm building:
 
 ## 💌 Let's Connect
 
-I'm always interested in discussing:
+I'm always interested in discussing:<img width="826" height="745" alt="OGLAO BANDV2" src="https://github.com/user-attachments/assets/e0cacae3-e12c-4738-8a27-edce96713282" />
+
 - **Blockchain innovation** and Web3 development
 - **Smart contract security** and optimization
 - **Decentralized systems architecture**
