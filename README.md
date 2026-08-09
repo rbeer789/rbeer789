@@ -12,8 +12,8 @@ Mindset is me "you can do it i'm can do it again" • Learn and Go ❤
 ### About
 - I am a self-taught technology developer focused on blockchain, smart contracts, and Web3 solutions. I believe in designing decentralized systems that are transparent, secure, and user-focused to help others access technology easily.
 - **Location:** Pakse, Champasak, Laos 🇱🇦
-- **Current Role:** Independent Developer at Don't worry
-
+- **Current Role:** Independent Developer 
+  
 ### Core areas
 - 🔭 **I’m currently working on:** Web3 identity layers and direct decentralized platforms.
 - 🌱 **I’m learning:** Advanced smart contract optimization and security frameworks.
