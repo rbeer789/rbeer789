@@ -30,11 +30,5 @@ Mindset is me "you can do it i'm can do it again" • Learn and Go ❤
 - **Web3 Domain:** `vithouns.blockchain` (Unstoppable Domains)
 - **Web3 Identity:** `rbeer1ive.uni.eth`
 
-### Get in touch
-- **Email:** oglaos@proton.me
-- **X (Twitter):** [x.com/RbeerShv](https://x.com/RbeerShv)
-- **Reddit:** [u/More_Candidate_2521](https://reddit.com/user/More_Candidate_2521)
-- **Flickr:** [Rbeer Gallery](https://flickr.com/people/203854024@N07)
-
 ---
 > **Principle:** "ทุกอย่างมันอยู่ที่คนไม่ได้อยู่ที่ของ" — Success depends on the person, not just the tools.
